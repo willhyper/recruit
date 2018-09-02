@@ -1,0 +1,7 @@
+.idea
+__pycache__
+recruit\__pycache__
+test\__pycache__
+build
+dist
+recruit.egg-info
